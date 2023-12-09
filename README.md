@@ -3,7 +3,7 @@
 
 ## :card_index_dividers: About the Project
 
-The objective of the project is to identify useful customer segments in the reservations data, and then to visualize the segments in a way that could lead to actionable marketing insights.
+The project aims to identify useful customer segments in the reservations data, and then to visualize the segments in a way that could lead to actionable marketing insights.
 
 
 The underlying questions are as follows:
